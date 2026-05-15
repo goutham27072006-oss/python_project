@@ -1,0 +1,9 @@
+setup.py
+quizapp/__init__.py
+quizapp/evaluate.py
+quizapp/questions.py
+quizapp/score.py
+quizapp.egg-info/PKG-INFO
+quizapp.egg-info/SOURCES.txt
+quizapp.egg-info/dependency_links.txt
+quizapp.egg-info/top_level.txt
